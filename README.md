@@ -5,9 +5,9 @@ Purpose
 =======
 The purpose of this TT is to guide you through all the necessary steps that are 
 required before you can use a python-based app to view records of mongodb.
-Requirements
-============
-A PC with internet access that is running Ubuntu 11.10.
+Prerequisites
+=============
+A PC with internet access that is running Ubuntu (I used 11.10).
 HowTo
 =====
 1. install mongoDB "sudo apt-get update; sudo apt-get install mongodb"
